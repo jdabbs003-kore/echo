@@ -13,7 +13,7 @@ From command line, as root:
 1. `cd echoserver`
 1. `git init`
 1. `git remote add origin https://github.com/jdabbs003-kore/echo.git`
-1. `git pull origin master`
+1. `git pull origin main`
 
 # update echo
 1. `cd echoserver`
