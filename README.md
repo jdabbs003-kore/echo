@@ -1,5 +1,5 @@
 # echo
-## Minimal TCP/IP Echo Server
+## minimal TCP/IP Echo Server
 
 Intended to be run from the command line to perform basic connectivity tests. It will
 listen for TCP connections, receive data streams, and echo what it hears. Activity
