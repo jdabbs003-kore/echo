@@ -6,7 +6,6 @@ listen for TCP connections, receive data streams, and echo what it hears. Activi
 will be logged to standard output.
 
 # system setup
-From command line, as root:
 1.`dnf install git nodejs`
 
 # install echo
